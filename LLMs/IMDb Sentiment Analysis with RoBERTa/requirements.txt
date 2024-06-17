@@ -1,0 +1,5 @@
+transformers[torch]
+datasets
+torch
+scikit-learn
+accelerate
